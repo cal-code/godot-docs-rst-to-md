@@ -1,0 +1,6 @@
+.venv
+input-rst/godot-docs/
+output-md-backup/
+output-md/
+__pycache__/
+vector_store/
